@@ -1,0 +1,29 @@
+.main {
+    background-color: #0c0c0c;
+    
+}
+.navbar { 
+    display: flex; 
+    font-size: 2rem; 
+    align-items: center;
+} 
+
+.a {
+    color: white;
+}
+
+.color {
+    color: white;
+}
+.heading {
+    color: #fff;
+    
+    text-align: center;
+    margin-top: 350px;
+    margin-left: 650px;
+
+}
+h1{
+    font-family: 'Dancing Script';
+    font-size: 50px;
+}
