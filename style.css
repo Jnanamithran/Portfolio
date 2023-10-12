@@ -1,7 +1,10 @@
 .main {
     background-color: #0c0c0c;
+    align-items: center;
+    justify-content: center;
     
 }
+
 .navbar { 
     display: flex; 
     font-size: 2rem; 
@@ -14,18 +17,29 @@
 }
 
 p {
-    color: white;
-    font-family: 'Lobster';
+    font-family: "Archivo Black";
+    color: rgb(255, 255, 255);
+    
 }
+
 .heading {
     color: #fff;
-    
     text-align: center;
     margin-top: 350px;
     margin-left: 650px;
 
 }
+
 h1{
     font-family: 'Dancing Script';
     font-size: 50px;
+}
+
+.image {
+    width: auto;
+    height: 45%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-90%,-50%);
 }
