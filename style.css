@@ -112,7 +112,7 @@
 }
 
 .heading h1{
-    font-size: 45px;
+    font-size: 70px;
     padding-left: 10px;
     color: white;
 }
@@ -123,6 +123,7 @@
 .heading h3{
     color: white;
     padding-left: 10px;
+    font-size: 38px;
 }
 
 .about {
